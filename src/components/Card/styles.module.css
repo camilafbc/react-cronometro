@@ -6,7 +6,7 @@
 .card{
     font-size: 5rem;
     font-family: 'Display-7', sans-serif;
-    height: 8rem;
+    /* height: 8rem; */
     width: 4rem;
     display: flex;
     align-items: center;
