@@ -4,7 +4,7 @@
   }
 
 .card{
-    font-size: 5rem;
+    font-size: 6rem;
     font-family: 'Display-7', sans-serif;
     /* height: 8rem; */
     width: 4rem;
@@ -18,18 +18,18 @@
 
 @media(min-width: 425px){
   .card {
-    font-size: 7rem;
+    font-size: 8rem;
   }
 }
 
 @media(min-width: 768px){
   .card {
-    font-size: 8rem;
+    font-size: 10rem;
   }
 }
 
 @media(min-width: 1000px){
   .card{
-    font-size: 10rem;
+    font-size: 13rem;
   }
 }
